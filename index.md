@@ -4,4 +4,4 @@ title: Use Cases
 
 # Use Cases
 
-- [Secretary of CxO](./Secretary-CxO)
+- [Secretary of CxO](./secretary-cxo)
