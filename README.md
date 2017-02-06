@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages for 365admin.net UseCases
+Visit (http://365admin.net/usecases)
 
 You can use the [editor on GitHub](https://github.com/365admin/usecases/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
